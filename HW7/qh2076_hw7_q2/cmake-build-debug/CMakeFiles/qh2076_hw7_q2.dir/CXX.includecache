@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/MIKE/Desktop/Bridge/HW/HW/HW7/qh2076_hw7_q2/main.cpp
+iostream
+-
+cmath
+-
+

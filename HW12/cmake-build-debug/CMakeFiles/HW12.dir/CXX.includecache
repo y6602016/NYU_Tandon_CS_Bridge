@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/MIKE/Desktop/Bridge/HW/HW/HW12/main.cpp
+iostream
+-
+cctype
+-
+cstdlib
+-
+vector
+-
+algorithm
+-
+
