@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/MIKE/Desktop/Bridge/HW/HW/HW15/main.cpp
+iostream
+-
+fstream
+-
+vector
+-
+string
+-
+utility
+-
+

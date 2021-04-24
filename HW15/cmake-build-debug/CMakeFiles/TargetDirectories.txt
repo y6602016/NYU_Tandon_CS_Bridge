@@ -1,0 +1,3 @@
+/Users/MIKE/Desktop/Bridge/HW/HW/HW15/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/MIKE/Desktop/Bridge/HW/HW/HW15/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/MIKE/Desktop/Bridge/HW/HW/HW15/cmake-build-debug/CMakeFiles/HW15.dir
