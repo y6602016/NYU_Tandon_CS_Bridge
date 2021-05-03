@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/MIKE/Desktop/Bridge/HW/HW/HW16/Q1/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+list
+-
+
